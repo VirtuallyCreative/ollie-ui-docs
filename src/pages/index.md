@@ -51,11 +51,11 @@ sections:
         url: /docs/getting-started/index.html
     component: ContentBlock
     content: >-
-      Ollie-UI is a culmination of 50+ front-end developer decisions that are
+      Ollie-UI is a culmination of ~50 front-end developer decisions typically
       made when starting a new project, so to never repeat myself going forward
-      I've bundled these decisions together into this starter-kit and thought
-      I'd open-source my decisions to help others, receive feedback and improve
-      together.
+      (DRY) I've bundled these decisions together into this starter-kit and
+      thought I'd open-source these decisions to help others, receive feedback
+      and so we can all improve together.
     image: /images/ollie-ui-big.png
     section_id: text-img
     title: Why use Ollie-UI?
