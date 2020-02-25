@@ -37,10 +37,9 @@ sections:
           - label: Get Started
             url: /style-guide.html
         content: >-
-          TL:DR? - We've dogfooded some starter packages for you to help learn
-          how best to use Ollie-UI and show some working examples. Hit the
-          ground running with these and use them as a starting base for any
-          application!
+          We've dogfooded some starter packages for you to help learn how best
+          to use Ollie-UI and show some working examples. Hit the ground running
+          with these and use them as a starting base for any application!
         title: Starting Themes
     section_id: features
     type: featuresblock
@@ -66,20 +65,18 @@ sections:
           - label: Learn More
             url: /overview.html
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          Dive into various topics related to front-end JavaScript development
+          and see how Ollie-UI approaches and handles each decision.
         title: Overview
       - actions:
           - label: Learn More
             url: /showcase.html
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Dive right in and pick a starting theme to learn how to build SPA's
+          using Ollie-UI. Once you see it in action "it just clicks".
         title: Showcase
     section_id: features-two-col
-    subtitle: Best practices baked into starting themes to use and explore.
+    subtitle: Learn about the decisions that form Ollie-UI opinionated setup
     title: Working with Ollie-UI
     type: featuresblock
   - actions:
@@ -95,14 +92,20 @@ sections:
   - actions: []
     component: ContentBlock
     content: >-
-      Nope. Ollie-UI is not a JavaScript framework. 
+      Nope. 
 
 
-      Ollie-UI is a starter-kit that simply builds upon ExpressJS. It provides a
-      very familiar work-space for most developers focused on Front-End
-      development to rapidly consume JSON data via a mock REST API. It's great
-      for building front-end components, layouts or templates around mock data
-      structure(s).
+      Ollie-UI is not a JavaScript framework. 
+
+
+      Ollie-UI is a starter-kit that builds upon Express.js using a centralized
+      API development approach. 
+
+
+      It provides a very familiar work-space for most developers focused on
+      Front-End development to rapidly consume JSON data via a mock REST API.
+      It's great for building front-end components, layouts or templates around
+      mock data structure(s).
     section_id: text-no-img
     title: Is Ollie-UI a javascript "framework"?
     type: contentblock
