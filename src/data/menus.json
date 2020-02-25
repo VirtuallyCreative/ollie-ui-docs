@@ -1,16 +1,16 @@
 {
-    "main": [
-        {
-            "identifier": "layouts",
-            "title": "Sample Layouts",
-            "url": "#",
-            "weight": 5
-        },
-        {
-            "identifier": "github",
-            "title": "GitHub",
-            "url": "https://github.com/",
-            "weight": 6
-        }
-    ]
+  "main": [
+    {
+      "identifier": "layouts",
+      "title": "Sample Layouts",
+      "url": "#",
+      "weight": 5
+    },
+    {
+      "identifier": "github",
+      "title": "GitHub",
+      "url": "https://github.com/VirtuallyCreative/ollie-ui",
+      "weight": 6
+    }
+  ]
 }
