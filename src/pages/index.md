@@ -98,10 +98,11 @@ sections:
       Nope. Ollie-UI is not a JavaScript framework. 
 
 
-      Ollie-UI is a starter-kit that simple builds upon ExpressJS to provide a
-      very familiar work-space for most developers focused on Front-End to
-      rapidly consume JSON data via mock REST API to build front-end components,
-      layouts or templates around that mock data structure(s).
+      Ollie-UI is a starter-kit that simply builds upon ExpressJS. It provides a
+      very familiar work-space for most developers focused on Front-End
+      development to rapidly consume JSON data via a mock REST API. It's great
+      for building front-end components, layouts or templates around mock data
+      structure(s).
     section_id: text-no-img
     title: Is Ollie-UI a javascript "framework"?
     type: contentblock
