@@ -6,36 +6,39 @@ sections:
         url: docs/index.html
     component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-    image: images/5.jpg
+      Ollie-UI is a JavaScript starter-kit for web developers to rapidly
+      prototype and wire-frame SPA. It's great for data-based, API driven
+      front-end user experiences.
+    image: /images/VS-Code-OllieUI.png
     section_id: hero
-    title: Hero Section
+    title: JavaScript Starter-Kit
     type: heroblock
   - component: FeaturesBlock
     featureslist:
       - actions:
-          - label: Get Started
+          - label: Learn More!
             url: docs/index.html
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Dive into the documentation and learn how Ollie-UI works under the
+          hood. Documentation is broken up into major sections and drills-down
+          into code examples for each.
         title: Dev Docs
       - actions:
           - label: View Posts
             url: blog/index.html
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Ollie-UI gets regular updates and has a pretty ambitious road-map for
+          2020. Keep up with the latest changes, updates and most voted upon
+          features.
         title: Blog Stuff
       - actions:
-          - label: Learn More
+          - label: Get Started
             url: /style-guide.html
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          TL:DR - We've dogfooded some starter packages for you to help learn
+          how best to use Ollie-UI and show some working examples. Hit the
+          ground running with these and use them as a starting base for any
+          application!
         title: Jump Start
     section_id: features
     type: featuresblock
