@@ -74,7 +74,7 @@ sections:
         content: >-
           Dive right in and pick a starting theme to learn how to build SPA's
           using Ollie-UI. Once you see it in action "it just clicks".
-        title: Showcase
+        title: Resources
     section_id: features-two-col
     subtitle: Learn about the decisions that form Ollie-UI opinionated setup
     title: Working with Ollie-UI
