@@ -1,6 +1,6 @@
 ---
 title: Ollie-UI Topics
-subtitle: Learn how Ollie-UI approaches Single Page Application development
+subtitle: Explore how Ollie-UI tackles each major topic during development
 img_path: /images/3.jpg
 sections:
   - actions:
