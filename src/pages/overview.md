@@ -1,6 +1,6 @@
 ---
-title: Decisions
-subtitle: 'When you develop JavaScript, you''ll make a lot of them.'
+title: Ollie-UI Topics
+subtitle: Learn how Ollie-UI approaches Single Page Application development
 img_path: /images/3.jpg
 sections:
   - actions:
