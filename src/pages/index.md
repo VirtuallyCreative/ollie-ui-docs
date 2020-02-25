@@ -12,7 +12,7 @@ sections:
       It's great for data-based, API driven front-end user experiences.
     image: /images/VS-Code-OllieUI.png
     section_id: hero
-    title: JavaScript Starter-Kit
+    title: A JavaScript Starter-Kit
     type: heroblock
   - component: FeaturesBlock
     featureslist:
