@@ -1,6 +1,6 @@
-content: '&copy; Stackbit-Libris. All rights reserved.'
+content: '&copy; Ollie-UI Starter-Kit. All rights reserved.'
 links:
-  - text: Made with Stackbit
+  - new_window: true
+    text: Made using Stackbit
     url: 'https://www.stackbit.com'
-    new_window: true
 has_social: true
