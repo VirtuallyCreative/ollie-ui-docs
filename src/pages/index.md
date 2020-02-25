@@ -27,9 +27,10 @@ sections:
           - label: View Posts
             url: blog/index.html
         content: >-
-          Ollie-UI gets regular updates and has a pretty ambitious road-map for
-          2020. Keep up with the latest changes, updates and most voted upon
-          features.
+          Ollie-UI gets regular updates and also has a pretty ambitious road-map
+          for 2020. Keep up with the latest changes, updates and most voted upon
+          features. Join the development community on Spectrum.chat and help
+          shape the future of Ollie-UI!
         title: Blog Stuff
       - actions:
           - label: Get Started
@@ -44,17 +45,17 @@ sections:
     type: featuresblock
   - actions:
       - label: View Demo
-        url: /docs/getting-started/index.html
+        url: 'https://ollie-ui.surge.sh'
       - label: Get Started
         url: /docs/getting-started/index.html
     component: ContentBlock
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    image: images/10.jpg
+      Ollie-UI is a culmination of 50+ front-end developer decisions that are
+      made when starting a new project, so to never repeat myself going forward
+      I've bundled these decisions together into this starter-kit.
+    image: /images/ollie-ui-big.png
     section_id: text-img
-    title: A Section With An Image
+    title: Why Ollie-UI?
     type: contentblock
   - component: FeaturesBlock
     featureslist:
@@ -79,23 +80,24 @@ sections:
     title: Sample Layouts
     type: featuresblock
   - actions:
-      - label: Get Started
+      - label: I want to help.
         url: /docs/getting-started/installation.html
     component: CtaBlock
     section_id: cta
-    subtitle: This is an optional description for the call to action block.
-    title: The Title of The Call to Action Block
+    subtitle: >-
+      Ollie-UI is an open source project and is currently looking for active
+      contributors!
+    title: Help Improve Ollie-UI
     type: ctablock
-  - actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
+  - actions: []
     component: ContentBlock
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      No. Ollie-UI is not a JavaScript framework. Ollie-UI is a starter-kit that
+      builds upon ExpressJS to provide a very familiar work-space for most
+      developers focused on Front-End to rapidly consume JSON data via REST API
+      and build front-end components, layouts or templates around that data.
     section_id: text-no-img
-    title: A Section Without Image
+    title: Is Ollie-UI a javascript "framework"?
     type: contentblock
 menus:
   main:
