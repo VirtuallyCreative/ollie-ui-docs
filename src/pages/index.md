@@ -6,9 +6,10 @@ sections:
         url: docs/index.html
     component: HeroBlock
     content: >-
-      Ollie-UI is a JavaScript starter-kit for web developers to rapidly
-      prototype and wire-frame SPA. It's great for data-based, API driven
-      front-end user experiences.
+      Ollie-UI is a JavaScript starter-kit for web devs to rapidly prototype and
+      wire-frame SPA. \
+
+      It's great for data-based, API driven front-end user experiences.
     image: /images/VS-Code-OllieUI.png
     section_id: hero
     title: JavaScript Starter-Kit
@@ -36,11 +37,11 @@ sections:
           - label: Get Started
             url: /style-guide.html
         content: >-
-          TL:DR - We've dogfooded some starter packages for you to help learn
+          TL:DR? - We've dogfooded some starter packages for you to help learn
           how best to use Ollie-UI and show some working examples. Hit the
           ground running with these and use them as a starting base for any
           application!
-        title: Jump Start
+        title: Starting Themes
     section_id: features
     type: featuresblock
   - actions:
@@ -52,10 +53,12 @@ sections:
     content: >-
       Ollie-UI is a culmination of 50+ front-end developer decisions that are
       made when starting a new project, so to never repeat myself going forward
-      I've bundled these decisions together into this starter-kit.
+      I've bundled these decisions together into this starter-kit and thought
+      I'd open-source my decisions to help others, receive feedback and improve
+      together.
     image: /images/ollie-ui-big.png
     section_id: text-img
-    title: Why Ollie-UI?
+    title: Why use Ollie-UI?
     type: contentblock
   - component: FeaturesBlock
     featureslist:
@@ -76,8 +79,8 @@ sections:
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         title: Showcase
     section_id: features-two-col
-    subtitle: An optional subtitle of the section
-    title: Sample Layouts
+    subtitle: Best practices baked into starting themes to use and explore.
+    title: Working with Ollie-UI
     type: featuresblock
   - actions:
       - label: I want to help.
