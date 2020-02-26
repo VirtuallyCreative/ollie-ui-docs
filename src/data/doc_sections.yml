@@ -1,24 +1,19 @@
 root_folder: /docs/
 sections:
-  - about
   - getting-started
-  - ui-components
-  - manage-content
-  - tools
-  - faq
-  - community
-  - app-structure
-  - automation
-  - bundling
-  - cloud-hosting-deployments
-  - continuous-integration
-  - development-server
-  - editors-configs
-  - http-calls
-  - linting
-  - package-management
+  - summary
   - preamble
+  - editors-configs
+  - package-management
+  - development-server
+  - automation
+  - transpiling
+  - bundling
+  - linting
+  - testing
+  - continuous-integration
+  - http-calls
+  - app-structure
   - production-builds
   - production-deployment
-  - testing
-  - transpiling
+  - cloud-hosting-deployments
