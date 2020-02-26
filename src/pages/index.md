@@ -82,13 +82,13 @@ sections:
     title: Working with Ollie-UI
     type: featuresblock
   - actions:
-      - label: I want to help.
+      - label: I want to help!
         url: /docs/getting-started/installation.html
     component: CtaBlock
     section_id: cta
     subtitle: >-
       Ollie-UI is an open source project and is currently looking for active
-      contributors!
+      contributors.
     title: Help Improve Ollie-UI
     type: ctablock
   - actions: []
