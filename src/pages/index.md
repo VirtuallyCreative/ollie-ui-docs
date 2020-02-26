@@ -66,15 +66,16 @@ sections:
           - label: Learn More
             url: /overview.html
         content: >-
-          Dive into various topics related to front-end JavaScript development
-          and see how Ollie-UI approaches and handles each decision.
+          Dive deeper into various topics related to front-end JavaScript/SPA
+          development and see how Ollie-UI approaches and handles each decision.
         title: Overview
       - actions:
           - label: Learn More
             url: /showcase.html
         content: >-
           Dive right in and pick a starting theme to learn how to build SPA's
-          using Ollie-UI. Once you see it in action "it just clicks".
+          using Ollie-UI. Once you see it in action hopefully, "it simply makes
+          sense".
         title: Resources
     section_id: features-two-col
     subtitle: Learn about the decisions that form Ollie-UI opinionated setup
