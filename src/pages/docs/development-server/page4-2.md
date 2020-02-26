@@ -1,3 +1,9 @@
+---
+title: Sharing Work-In-Progress
+weight: 2
+template: docs
+---
+
 # Sharing work-in-progress
 
 When sharing W.I.P applications Ollie strives to be simple.

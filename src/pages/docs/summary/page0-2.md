@@ -1,3 +1,9 @@
+---
+title: Contributing
+weight: 2
+template: docs
+---
+
 ## How to contribute to Ollie Framework
 
 #### **Did you find a bug?**

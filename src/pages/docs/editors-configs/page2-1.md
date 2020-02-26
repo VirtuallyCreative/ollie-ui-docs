@@ -1,3 +1,9 @@
+---
+title: Editor Features
+weight: 1
+template: docs
+---
+
 # Editor Features & Recommendations
 
 There's a wonderful selection of powerful editors these

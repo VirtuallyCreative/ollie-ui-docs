@@ -1,3 +1,10 @@
+---
+title: NPM Default Scripts
+excerpt: >-
+  Listing of all the NPM Script Commands out of the box in Ollie-UI.
+template: docs
+---
+
 # NPM Default Scripts
 
 Out of the box, here are the pre-configured scripts in Ollie,

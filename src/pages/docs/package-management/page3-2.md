@@ -1,3 +1,9 @@
+---
+title: Package Security
+weight: 2
+template: docs
+---
+
 # Package Security
 
 Since Ollie relies on many Development Dependencies the status of them all is listed here for easily viewing.

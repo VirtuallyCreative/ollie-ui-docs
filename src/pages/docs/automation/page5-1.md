@@ -1,3 +1,9 @@
+---
+title: NPM Scripts
+weight: 1
+template: docs
+---
+
 ## NPM Scripts
 
 Expanding on the the pre-made scripts in Ollie should be pretty straightforward. Ideally to add more features along with your app you can

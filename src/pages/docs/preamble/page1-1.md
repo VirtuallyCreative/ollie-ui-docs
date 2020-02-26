@@ -1,3 +1,9 @@
+---
+title: Automated Checklists
+weight: 1
+template: docs
+---
+
 # Automated Checklists
 
 I like to think of a starter kit as important automated checklists.

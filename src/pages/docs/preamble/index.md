@@ -1,3 +1,11 @@
+---
+title: Ollie-UI Starter Kit
+excerpt: >-
+  To make it easy to write documentation in plain Markdown, most UI components
+  are styled using Markdown elements with few additional CSS classes.
+template: docs
+---
+
 # Ollie Starter Kit
 
 The purpose of Ollie is to work smart, not hard.
@@ -8,7 +16,7 @@ Are you overwhelmed by the number of options that are available in the JavaScrip
 
 Those are just a few of the reasons that I created the Ollie starter kit.
 
-There are over 40 out-of-the-gate decisions that you might consider when creating a robust JavaScript development environment and after setting up for 100's of projects,
+There are over 50 out-of-the-gate decisions that you might consider when creating a robust JavaScript development environment and after setting up for 100's of projects,
 
 **If you can make all of these decisions just once, then every future project can benefit from a solid foundation.**
 

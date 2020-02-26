@@ -1,3 +1,9 @@
+---
+title: ExpressJS
+weight: 1
+template: docs
+---
+
 # ExpressJS
 
 Ollie has a very minimal Express setup. Ollie keeps all build-related tools in a single folder called `build` in the root of the project.

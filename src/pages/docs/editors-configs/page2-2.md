@@ -1,3 +1,9 @@
+---
+title: .editorconfig
+weight: 2
+template: docs
+---
+
 # .editorconfig
 
 Here's the editor config that I typically use.

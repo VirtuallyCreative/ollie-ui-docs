@@ -1,3 +1,11 @@
+---
+title: Web Development Server
+excerpt: >-
+  To make it easy to write documentation in plain Markdown, most UI components
+  are styled using Markdown elements with few additional CSS classes.
+template: docs
+---
+
 # Development Web Server
 
 Ollie uses [Express](http://expressjs.com) as the choice to handle everything server related. It's a bit more middleweight. Unlike [http-server](https://www.npmjs.com/package/http-server) and [live-server](https://www.npmjs.com/package/live-server), it's not just for static files. You can serve up complex APIs via node using Express as well which is important for Ollie's mock data features.

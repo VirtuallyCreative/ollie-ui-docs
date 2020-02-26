@@ -1,3 +1,9 @@
+---
+title: Why Use Ollie-UI
+weight: 2
+template: docs
+---
+
 ## Why Use Ollie
 
 These days, it seems JavaScript is everywhere. You can run your JavaScript on the server using node JS. You can use JavaScript to build mobile apps using NativeScript, PhoneGap, or React Native. And with great tools like NWJS and most recently, Electron, you can even create installable desktop apps that run on Mac and Windows.

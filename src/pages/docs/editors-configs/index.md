@@ -1,3 +1,11 @@
+---
+title: Editors & Configs
+excerpt: >-
+  To make it easy to write documentation in plain Markdown, most UI components
+  are styled using Markdown elements with few additional CSS classes.
+template: docs
+---
+
 # Editors & Configurations
 
 To get things started, Ollie makes no assumption about what Javascript editor you prefer but does assume that

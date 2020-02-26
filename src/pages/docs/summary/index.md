@@ -1,3 +1,11 @@
+---
+title: Ecosystem
+excerpt: >-
+  To make it easy to write documentation in plain Markdown, most UI components
+  are styled using Markdown elements with few additional CSS classes.
+template: docs
+---
+
 # Ecosystem
 
 Ollie is a rapid SPA starter kit meaning it makes little assumptions about what front-end stack you're going to use with it.

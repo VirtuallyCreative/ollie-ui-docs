@@ -1,13 +1,13 @@
 ---
 title: Where To Get Support
 excerpt: >-
-  We'd love it if you participate in the Libris community. Find out how to get
+  We'd love it if you participate in the Ollie-UI community. Find out how to get
   connected.
 template: docs
 ---
 
 <div class="note">
-  <strong>Note:</strong> 
+  <strong>Note:</strong>
   This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
 </div>
 
@@ -15,7 +15,7 @@ template: docs
 
 ## Stack Overflow
 
-Suspendisse hendrerit maximus metus in placerat. In ligula magna, efficitur sed ultrices non, iaculis ut ligula. Sed finibus efficitur cursus. Proin quis molestie purus. Vestibulum ut magna eget tortor tempor egestas eget eu orci. Integer porta cursus rutrum. Quisque porta suscipit sem, et tincidunt felis malesuada vel. 
+Suspendisse hendrerit maximus metus in placerat. In ligula magna, efficitur sed ultrices non, iaculis ut ligula. Sed finibus efficitur cursus. Proin quis molestie purus. Vestibulum ut magna eget tortor tempor egestas eget eu orci. Integer porta cursus rutrum. Quisque porta suscipit sem, et tincidunt felis malesuada vel.
 
 ## Popular Discussion Forums
 
