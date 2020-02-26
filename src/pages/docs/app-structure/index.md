@@ -1,8 +1,8 @@
 ---
 title: Project Structure
 excerpt: >-
-Ollie-UI has some strong opinions on how to setup your project
-structure and how to showcase your best practices.
+  Ollie-UI has some strong opinions on how to setup your project
+  structure and how to showcase your best practices.
 template: docs
 ---
 
