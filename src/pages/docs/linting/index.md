@@ -1,8 +1,8 @@
 ---
 title: Linting CSS, HTML & JS
 excerpt: >-
-Learn how Ollie-UI uses ESLint to provide powerful feedback during
-the development process.
+  Learn how Ollie-UI uses ESLint to provide powerful feedback during
+  the development process.
 template: docs
 ---
 

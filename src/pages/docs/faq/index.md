@@ -1,15 +1,15 @@
 ---
 title: FAQ
 excerpt: >-
-  In this section you'll find commonly asked questions regarding the Libris
-  theme. If you have questions, don’t hesitate to ask us directly.
+  In this section you'll find commonly asked questions regarding Ollie-UI.
+  If you have questions, don’t hesitate to ask us directly.
 template: docs
 ---
 
 This is an example of the FAQ page.
 
 <div class="note">
-  <strong>Note:</strong> 
+  <strong>Note:</strong>
   This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
 </div>
 
