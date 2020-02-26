@@ -1,10 +1,10 @@
 ---
 title: Getting Started
-excerpt: In this section you'll find basic information about Libris and how to use it.
+excerpt: In this section you'll find basic information about Ollie-UI and how to use it.
 template: docs
 ---
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+All you need is Node, NPM and your favourite IDE to get going quickly.
 
 ***
 
