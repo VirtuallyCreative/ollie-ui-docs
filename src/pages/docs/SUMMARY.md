@@ -114,7 +114,7 @@
   * [Cache Busting](page13/13-7.md)
   * [Extract and Minify CSS](page13/13-8.md)
   * [Error Logging](page13/13-9.md)
-  * [ESJ Templating](page13/13-10.md)
+  * [EJS Templating](page13/13-10.md)
 
 ## Production Deployment
 
