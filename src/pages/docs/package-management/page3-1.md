@@ -4,9 +4,10 @@ weight: 1
 template: docs
 ---
 
-# NPM & YARN
+# NPM or YARN
 
 While the scripts in Ollie are set to run using `npm` you can replace the it with `yarn` if you prefer to use that.
+
 
 ## NPM Scripts
 

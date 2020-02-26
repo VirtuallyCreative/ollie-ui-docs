@@ -15,9 +15,10 @@ These editors offer many, if not all the benefits that I listed previously.
 the only option on this list that isn't free, but it does offer a free 30-day trial.
 
 At Virtually(Creative) we use [Visual Studio Code](https://code.visualstudio.com) because it's free,
-it's fast, it offers a built-in terminal, it has
-excellent Git integration and node debugging, and it
+it's fast, it offers a built-in terminal, it has excellent Git integration and node debugging, and it
 boasts a rich plug-in ecosystem.
+
+Another option is [Visual Studio 2019](https://visualstudio.microsoft.com/vs/), a full-powered IDE that has a free Community Edition and is more focused on .NET or SQL.
 
 ## Cool Story bro, but I'm back-end
 

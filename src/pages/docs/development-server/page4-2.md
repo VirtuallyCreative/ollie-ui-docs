@@ -6,7 +6,7 @@ template: docs
 
 # Sharing work-in-progress
 
-When sharing W.I.P applications Ollie strives to be simple.
+When sharing W.I.P applications Ollie believes in simplicity is best.
 
 So, why not just put the app on a traditional cloud provider like AWS, Azure, Google Cloud, Heroku, Netlify, DigialOcean, etc...?
 
@@ -19,21 +19,20 @@ Why doesn't Ollie have that out of the box?
 Ollie likes free - so it uses some quick and easy options to get your work-in-progress up fast.
 Think of this as *before* going onto any cloud surface that could start charging money.
 
-## Localtunnel
+## ngrok
 
-[Localtunnel](https://www.npmjs.com/package/localtunnel) offers an elegant way to expose your local host via a public url. It punches a hole in your firewall so that your local machine can operate as a web server. The nice thing about localtunnel is how easy it is to get started. You install the localtunnel npm package globally, and then any time you want to expose your work to the public web, you start up your app and then type something like this: `npm run share`.
+[ngrok](https://ngrok.com/) allows you to expose a web server running on your local machine to the internet. Just tell ngrok what port your web server is listening on and then any time you want to expose your work to the public web, you start up your app and then type something this: npm run share.
 
-That opens the `src` directory in your browser ready to share (copy/paste the URL) fast and with no configurations needed.
+That opens the src directory in your browser ready to share (copy/paste the URL) fast and with no configurations needed and with HTTPS enabled!
 
 It's as simple as that. Quite slick.
 
-With localtunnel, anyone with the url can access your app while your localtunnel is open. But the advantage of localtunnel of course is it's lower
-friction to get set up.
+With ngrok, anyone with the url can access your app while your it's open. But the advantage of ngrok of course is it's lower
+friction to get set up and has a local dashboard to monitor your "web server".
 
 ## Surge.sh
 
-Surge assumes that your app is just static `.html`, `.javascript`, and `.css` files. Surge only supports static files. But the upside is extreme
-simplicity. You don't have to punch a hole in your firewall to expose your work. Instead you can quickly move your static files up to their public web server.
+Surge assumes that your app is just static `.html`, `.javascript`, and `.css` files. Surge only supports static files. But the upside is extreme simplicity. You don't have to punch a hole in your firewall to expose your work. Instead you can quickly move your static files up to their public web server.
 
 If you want to use Surge as a more permanent host, you can even use your own domain name. So with that approach, Surge becomes an easy way to do automated deployments via the command line - something covered in the Production Deployment section.
 
