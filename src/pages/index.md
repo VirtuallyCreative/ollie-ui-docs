@@ -52,9 +52,10 @@ sections:
     content: >-
       Ollie-UI is a culmination of ~50 front-end developer decisions typically
       made when starting a new project, so to never repeat myself going forward
-      (DRY) I've bundled these decisions together into this starter-kit and
-      thought I'd open-source these decisions to help others, receive feedback
-      and so we can all improve together.
+      ([DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)) I've
+      bundled these decisions together into this starter-kit and thought I'd
+      open-source these decisions to help others, receive feedback and we can
+      all improve together.
     image: /images/ollie-ui-big.png
     section_id: text-img
     title: Why use Ollie-UI?
@@ -65,28 +66,29 @@ sections:
           - label: Learn More
             url: /overview.html
         content: >-
-          Dive into various topics related to front-end JavaScript development
-          and see how Ollie-UI approaches and handles each decision.
+          Dive deeper into various topics related to front-end JavaScript/SPA
+          development and see how Ollie-UI approaches and handles each decision.
         title: Overview
       - actions:
           - label: Learn More
             url: /showcase.html
         content: >-
           Dive right in and pick a starting theme to learn how to build SPA's
-          using Ollie-UI. Once you see it in action "it just clicks".
+          using Ollie-UI. Once you see it in action hopefully, "it simply makes
+          sense".
         title: Resources
     section_id: features-two-col
     subtitle: Learn about the decisions that form Ollie-UI opinionated setup
     title: Working with Ollie-UI
     type: featuresblock
   - actions:
-      - label: I want to help.
+      - label: I want to help!
         url: /docs/getting-started/installation.html
     component: CtaBlock
     section_id: cta
     subtitle: >-
       Ollie-UI is an open source project and is currently looking for active
-      contributors!
+      contributors.
     title: Help Improve Ollie-UI
     type: ctablock
   - actions: []

@@ -7,3 +7,18 @@ sections:
   - tools
   - faq
   - community
+  - app-structure
+  - automation
+  - bundling
+  - cloud-hosting-deployments
+  - continuous-integration
+  - development-server
+  - editors-configs
+  - http-calls
+  - linting
+  - package-management
+  - preamble
+  - production-builds
+  - production-deployment
+  - testing
+  - transpiling
