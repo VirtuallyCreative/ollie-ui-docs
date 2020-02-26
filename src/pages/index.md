@@ -52,9 +52,10 @@ sections:
     content: >-
       Ollie-UI is a culmination of ~50 front-end developer decisions typically
       made when starting a new project, so to never repeat myself going forward
-      (DRY) I've bundled these decisions together into this starter-kit and
-      thought I'd open-source these decisions to help others, receive feedback
-      and so we can all improve together.
+      ([DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)) I've
+      bundled these decisions together into this starter-kit and thought I'd
+      open-source these decisions to help others, receive feedback and we can
+      all improve together.
     image: /images/ollie-ui-big.png
     section_id: text-img
     title: Why use Ollie-UI?
