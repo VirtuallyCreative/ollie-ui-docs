@@ -4,12 +4,14 @@ subtitle: Explore how Ollie-UI tackles each major topic during development
 img_path: /images/3.jpg
 sections:
   - actions:
-      - label: Get Started
-        url: /docs/getting-started/index.html
+      - label: I want to help!
+        url: 'https://github.com/virtuallycreative/ollie-ui/'
     component: CtaBlock
     section_id: cta
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
+    title: Help Improve Ollie-UI
+    subtitle: >-
+      Ollie-UI is an open source project and is currently looking for active
+      contributors.
     type: ctablock
 menus:
   layouts:
