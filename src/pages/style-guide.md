@@ -1,10 +1,10 @@
 ---
-title: Style Guide
-subtitle: The style guide provides you with a blueprint of default post and page styles.
-img_path: images/5.jpg
+title: Implementation Guide
+subtitle: ''
+img_path: /images/ollie-ui-big.png
 menus:
   main:
-    title: Style Guide
+    title: Implementation Guide
     weight: 4
 template: page
 ---
