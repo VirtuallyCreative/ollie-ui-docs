@@ -6,10 +6,11 @@ sections:
         url: docs/index.html
     component: HeroBlock
     content: |-
-      Ollie-UI is a JavaScript starter-kit for web devs\
-      to rapidly prototype and wire-frame Single Page Applications.\
+      Ollie-UI is a JavaScript starter-kit for web peoples\
+      to rapidly prototype and wire-frame\
+      Single Page Applications.\
        \
-      It's great for data-based, API driven front-end user experiences.
+      It's great for data -> based (API driven) front-end user experiences.
     image: /images/VS-Code-OllieUI.png
     section_id: hero
     title: A JavaScript Starter-Kit
