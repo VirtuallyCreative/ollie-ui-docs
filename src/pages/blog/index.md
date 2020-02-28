@@ -1,6 +1,6 @@
 ---
-title: Blog
-subtitle: This is an optional subtitle for the blog page
+title: Changelogs
+subtitle: 'Check for Updates, Change-logs and other stuff.'
 img_path: images/5.jpg
 menus:
   main:
@@ -8,3 +8,4 @@ menus:
     weight: 3
 template: blog
 ---
+
