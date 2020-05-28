@@ -2,7 +2,7 @@
 title: Introducting Ollie-UI
 subtitle: Oh great, another JavaScript framework...?
 date: 2020-05-27T04:00:00.000Z
-thumb_img_path: /images/3.jpg
+thumb_img_path: /images/surge.sh-example.png
 content_img_path: images/3.jpg
 excerpt: Ollie-UI is a starter-kit to help you rapidly develop prototype single
   page applications or APIs.
