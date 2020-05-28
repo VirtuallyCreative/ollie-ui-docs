@@ -11,25 +11,23 @@ template: post
 **Ollie-UI** is a culmination of several years of self-taught front-end development and 100's of hours of JavaScript, Web Development, Dev Operations courses and tutorials merged into a starter-kit that I've used for myself for many, many projects. With so many decisions a front-end developer has to make I figured I'd stop being inconstant, forgetting this setup item or that, on various projects and combine it all together into something that scaffolds almost any new project I work on.
 
 ```javascript
-switch (type) {
-  case 'Object':
-    id = _.util.objId(o);
-    if (visited[id]) {
-      return visited[id];
-    }
-    clone = {};
-    visited[id] = clone;
+// ...
+const port = 3000
+// ...
+app.get('/', function mainHandler(req, res) {
+    res.sendFile(path.join(__dirname, '../src/index.ejs'))
+})
+// ...
+app.listen(port, function(err) {
+    if (err) {
+        console.log(err) // eslint-disable-line no-console
 
-    for (var key in o) {
-      if (o.hasOwnProperty(key)) {
-        clone[key] = deepClone(o[key], visited);
-      }
+        // Rollbar.com Error Tracking, uncomment to enable
+        // rollbar.critical("Critical Error Caught: ", err)
+    } else {
+        open('http://localhost:' + port)
     }
-    return clone;
-
-  default:
-    return o;
-}
+})
 ```
 
 Some of the things out of the box are, 
