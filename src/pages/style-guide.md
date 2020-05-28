@@ -1,7 +1,7 @@
 ---
 title: Implementation Guide
-subtitle: ''
-img_path: /images/ollie-ui-big.png
+subtitle: ""
+img_path: /images/surge.sh-example.png
 menus:
   main:
     title: Implementation Guide
