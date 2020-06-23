@@ -3,12 +3,16 @@ title: Introducting Ollie-UI
 subtitle: Oh great, another JavaScript framework...?
 date: 2020-05-27T04:00:00.000Z
 thumb_img_path: /images/surge.sh-example.png
-content_img_path: images/3.jpg
+content_img_path: /images/ollie-ui-big.png
 excerpt: Ollie-UI is a starter-kit to help you rapidly develop prototype single
   page applications or APIs.
 template: post
 ---
-**Ollie-UI** is a culmination of several years of self-taught front-end development and 100's of hours of JavaScript, Web Development, Dev Operations courses and tutorials merged into a starter-kit that I've used for myself for many, many projects. With so many decisions a front-end developer has to make I figured I'd stop being inconstant, forgetting this setup item or that, on various projects and combine it all together into something that scaffolds almost any new project I work on.
+**Ollie-UI** is a culmination of several years of self-taught front-end development and 100's of hours of JavaScript, Web Development, DevOps courses and tutorials merged into a starter-kit that I've used for 5+ in-production projects. 
+
+With so many decisions a front-end developer has to make I figured I'd stop being inconstant, forgetting this setup item or that, on various projects and combine it all together into something that scaffolds almost any new project I work on.
+
+It's some dependency-heavy scaffolding on top of [Express.js](http://expressjs.com) to provide a quick, easy mock API to prototype against.
 
 ```javascript
 // ...
