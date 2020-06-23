@@ -29,8 +29,7 @@ sections:
             url: blog/index.html
         content: Ollie-UI gets regular updates and also has a pretty ambitious road-map
           for 2020. Keep up with the latest changes, updates and most voted upon
-          features. Join the development community on Spectrum.chat and help
-          shape the future of Ollie-UI!
+          features.
         title: Blog Stuff
       - actions:
           - label: Get Started
