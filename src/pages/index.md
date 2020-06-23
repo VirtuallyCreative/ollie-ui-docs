@@ -36,7 +36,7 @@ sections:
             url: /style-guide.html
         content: We've dogfooded some starter packages for you to help learn how best to
           use Ollie-UI and show some working examples. Hit the ground running
-          with these and use them as a starting base for any application!
+          with these and use them as a base for any single-page application!
         title: Starting Themes
     section_id: features
     type: featuresblock
