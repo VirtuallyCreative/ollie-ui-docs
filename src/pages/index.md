@@ -28,8 +28,8 @@ sections:
           - label: View Posts
             url: blog/index.html
         content: Ollie-UI gets regular updates and also has a pretty ambitious road-map
-          for 2020. Keep up with the latest changes, updates and most voted upon
-          features.
+          for 2020-21. Keep up with the latest changes, updates and most voted
+          upon features.
         title: Blog Stuff
       - actions:
           - label: Get Started
